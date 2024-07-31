@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/case-exercise/src/com/hanxk/Test10.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/helloworld-app/src/speedkey/Ha.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/helloworld-app/src/speedkey/Hello.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/helloworld-app/src/speedkey/SpeedKeyDemo.java" charset="UTF-8" />
