@@ -8,7 +8,7 @@ public class test {
         int[] arr=new int[5];
         Scanner sc=new Scanner(System.in);
         for (int i=0;i<arr.length; i++) {
-            System.out.println("请输入第"+(i+1)+"个员工号");
+            System.out.println("璇疯緭鍏ョ"+(i+1)+"涓憳宸ュ彿");
             arr[i]=sc.nextInt();
             Random r=new Random();
             int data=r.nextInt(arr.length);

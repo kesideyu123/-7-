@@ -4,5 +4,6 @@ public class ArrayListTest {
     public static void main(String[] args) {
         FoodOperator operator=new FoodOperator();
         operator.start();
+        System.out.println("HelloWorld");
     }
 }

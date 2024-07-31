@@ -6,16 +6,16 @@ public class test1 {
     public static void main(String[] args) {
         for (int i=0;i<3;i++) {
             Scanner sc = new Scanner(System.in);
-            System.out.println("ÇëÊäÈëµÇÂ¼Ãû³Æ");
+            System.out.println("è¯·è¾“å…¥ç™»å½•åç§°");
             String loginName=sc.next();
-            System.out.println("ÇëÊäÈëÃÜÂë");
+            System.out.println("è¯·è¾“å…¥å¯†ç ");
             String password=sc.next();
             boolean rs=login(loginName,password);
             if(rs){
-                System.out.println("¹§Ï²µÇÂ¼³É¹¦");
+                System.out.println("æ­å–œç™»å½•æˆåŠŸ");
                 break;
             }else {
-                System.out.println("µÇÂ½Ê§°Ü");
+                System.out.println("ç™»é™†å¤±è´¥");
             }
         }
 
