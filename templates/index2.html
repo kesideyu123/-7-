@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{{ data }}
+<br>
+{{ data['name'] }}
+<br>
+mylist{{ data.mylist |li2}}
+<br>
+mylist{{ data.mylist[1]}}
+<br>
+count{{ data.mylist[1]+data.mylist[2] }}
+<br>
+{{ 'hello world'|title }}
+{#upper 变成大写,在竖线后面写，逻辑或#}
+<br>
+{{ "hello world" |replace("hello",'hi')}}
+</body>
+</html>
